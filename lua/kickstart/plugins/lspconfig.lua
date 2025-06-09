@@ -221,6 +221,10 @@ return {
         -- ts_ls = {},
         --
 
+        zls = {
+          cmd = { '/usr/local/bin/zls' },
+        },
+
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
